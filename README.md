@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rntrm!
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning CSS, HTML and JavaScript whilst trying to figure out Linux and how to get my custom keyboard layout working there :D
+- 👀 I’m interested in learning web development.
+- 🌱 I’m currently learning HTML, CSS and JavaScript whilst also getting used to the fresh smell of Linux.
 - 💞️ I’m looking to collaborate on projects that make life easier, or just some visually enticing projects and games.
 - 📫 You can reach me by sending out an e-mail to tormi.vahar@gmail.com ;)
 
